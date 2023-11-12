@@ -1,0 +1,38 @@
+[
+  {
+    "clientID": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "dob": "1990-05-15"
+  },
+  {
+    "clientID": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dob": "1985-10-20"
+  },
+  {
+    "clientID": 3,
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "dob": "1995-03-08"
+  },
+  {
+    "clientID": 3,
+    "firstName": "Matt",
+    "lastName": "Abraham",
+    "dob": "1993-04-05"
+  },
+  {
+    "clientID": 3,
+    "firstName": "Jennifer",
+    "lastName": "Larson",
+    "dob": "1956-03-04"
+  },
+  {
+    "clientID": 3,
+    "firstName": "Will",
+    "lastName": "Smith",
+    "dob": "1998-11-11"
+  }
+]
