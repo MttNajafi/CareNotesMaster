@@ -1,9 +1,16 @@
 # React Native Sample Project
 
-CareNotesMaster
+# CareNotesMaster
 
 This is a React Native sample project - a simple note application. The application allows users to add, edit, delete notes.
 Data is stored using JSON files and local storage.
+
+<p align="center">
+  <img src="https://github.com/MttNajafi/CareNotesMaster/assets/36259426/11d5be11-088c-4be7-bf37-6fecbbfe25bd" width="200" alt="CNM2">
+  <img src="https://github.com/MttNajafi/CareNotesMaster/assets/36259426/e745e8f5-6155-4244-865b-9928e8b33f76" width="200" alt="CNM3">
+  <img src="https://github.com/MttNajafi/CareNotesMaster/assets/36259426/da41dc4f-6281-4c07-9477-b183676dd14b" width="200" alt="CNM4">
+  <img src="https://github.com/MttNajafi/CareNotesMaster/assets/36259426/d3677eee-9b7b-4310-8ca9-9d7388436c16" width="200" alt="CNM6">
+</p>
 
 ## Features
 
